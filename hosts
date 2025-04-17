@@ -30,6 +30,13 @@ ff02::3 ip6-allhosts
 # Custom host records are listed here.
 
 
+0.0.0.0 *.dartsearch.net
+0.0.0.0 *.googleadservices.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.googletagservices.com
+
+
 # End of custom host records.
 # Start StevenBlack
 
