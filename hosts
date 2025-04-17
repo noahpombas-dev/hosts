@@ -119558,21 +119558,6 @@ ff02::3 ip6-allhosts
 
 # End KADhosts
 
-# Start minecraft-hosts
-
-# minecraft-hosts - Tracking Domains
-# License: CC0
-
-0.0.0.0 analytics.atlauncher.com
-0.0.0.0 auxilium.ftb.team
-0.0.0.0 beacon.quiltmc.org
-0.0.0.0 bstats.org
-0.0.0.0 mcmc.dev
-0.0.0.0 mcstats.org
-0.0.0.0 metrics.shmeeb.net
-0.0.0.0 openeye.openmods.info
-
-# End minecraft-hosts
 
 # Start mvps.org
 
